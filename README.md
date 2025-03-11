@@ -37,7 +37,7 @@ This is a terminal that I use everyday, and maybe it will work for you too.
 ## Simple installation
 
 ```
-git clone https://github.com/coffeewasmyidea/st
+git clone https://8am.dev/enodllew/st.git
 cd st
 sudo make install
 ```
